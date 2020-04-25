@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>59.jpg</filename>
+	<path>/home/saptarshi/data/images/59.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mobile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>37</ymin>
+			<xmax>644</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>
